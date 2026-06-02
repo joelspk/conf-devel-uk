@@ -1,0 +1,6 @@
+Coloque aqui a planilha vigente com este nome exato:
+
+contas_bancarias.xlsx
+
+Se este arquivo existir, o sistema usará essa base automaticamente quando o usuário enviar apenas PDFs.
+Se o usuário enviar uma planilha XLSX junto com os PDFs, essa planilha enviada terá prioridade naquele processamento.
